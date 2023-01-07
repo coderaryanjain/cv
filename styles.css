@@ -1,0 +1,14 @@
+body{
+    background-color:#a8dadc;
+}
+
+img:hover{
+    background-color: gold;
+}
+hr{
+    color : #f1faee;
+    border-style: none;
+    border-top: dotted;
+    height: 0px;
+    border-width: 15px;
+}
